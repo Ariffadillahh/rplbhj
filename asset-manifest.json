@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rplbhj/static/css/main.26343cec.css",
+    "main.js": "/rplbhj/static/js/main.3fe8b824.js",
+    "static/js/787.66431620.chunk.js": "/rplbhj/static/js/787.66431620.chunk.js",
+    "static/media/org.svg": "/rplbhj/static/media/org.f1523f139e3f44fd5d6f1e3cb4175caa.svg",
+    "static/media/huu-min.png": "/rplbhj/static/media/huu-min.749edc45ebcb9e4c15d1.png",
+    "static/media/gbk.png": "/rplbhj/static/media/gbk.682c0f60da2ceea121f5.png",
+    "static/media/foto.png": "/rplbhj/static/media/foto.7684c17ca0b1400d7d9a.png",
+    "static/media/gbkk2.svg": "/rplbhj/static/media/gbkk2.d0990d01a09d40477d24e10141bf16e1.svg",
+    "static/media/gbkk3.svg": "/rplbhj/static/media/gbkk3.b75001058c74911158cf8a8737bfce54.svg",
+    "static/media/LKS.webp": "/rplbhj/static/media/LKS.30cc5a578d61cff7ef1c.webp",
+    "static/media/wisuda.webp": "/rplbhj/static/media/wisuda.e3648ac1974c72c2ddbe.webp",
+    "static/media/LSP.webp": "/rplbhj/static/media/LSP.5acd3d9d8eac6400c3a2.webp",
+    "static/media/gudep.webp": "/rplbhj/static/media/gudep.ccb00e8d6d49eb8a3287.webp",
+    "index.html": "/rplbhj/index.html",
+    "main.26343cec.css.map": "/rplbhj/static/css/main.26343cec.css.map",
+    "main.3fe8b824.js.map": "/rplbhj/static/js/main.3fe8b824.js.map",
+    "787.66431620.chunk.js.map": "/rplbhj/static/js/787.66431620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26343cec.css",
+    "static/js/main.3fe8b824.js"
+  ]
+}
